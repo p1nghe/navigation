@@ -7,8 +7,8 @@
 
 
 ## 渗透
-* [CMD5](https://www.cmd5.com/)
-* [SoMD5](https://www.somd5.com/)
+* 资产管理平台
+ * [H](https://github.com/SiJiDo/H)
 
 ## Android
 * [android系列工具](https://haveibeenpwned.com/)
