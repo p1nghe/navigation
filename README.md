@@ -1,5 +1,5 @@
 # navigation
-记录一些自己容易忘记的网站。
+记录一些自己容易忘记的链接。
 
 
 ## 加解密
@@ -18,3 +18,6 @@
 * [BUGBANK](https://www.bugbank.cn)
 * [补天](https://www.butian.net/)
 * [Hackone](https://www.hackerone.com/)
+
+## 乱七八糟
+
