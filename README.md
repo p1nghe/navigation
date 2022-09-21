@@ -11,6 +11,7 @@
 * [fofa](https://fofa.info/)
 * [鹰图平台](https://hunter.qianxin.com/)
 * [Quake](https://quake.360.cn/)
+* [ENScan](https://github.com/wgpsec/ENScan_GO)
 
 ### 资产管理平台
  * [H](https://github.com/SiJiDo/H)
