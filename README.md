@@ -9,7 +9,7 @@
 ## 渗透
 ### 信息收集
 * [fofa](https://fofa.info/)
-* [鹰图平台]（https://hunter.qianxin.com/）
+* [鹰图平台](https://hunter.qianxin.com/)
 
 ### 资产管理平台
  * [H](https://github.com/SiJiDo/H)
