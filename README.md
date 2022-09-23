@@ -4,6 +4,7 @@
 ## 加解密
 * [CMD5](https://www.cmd5.com/)
 * [SoMD5](https://www.somd5.com/)
+* [DES加解密](https://www.qtool.net/des)
 
 
 ## 渗透
