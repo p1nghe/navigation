@@ -5,6 +5,7 @@
 * [CMD5](https://www.cmd5.com/)
 * [SoMD5](https://www.somd5.com/)
 * [DES加解密](https://www.qtool.net/des)
+* [SHA1 online](http://www.sha1-online.com/)
 
 
 ## 渗透
