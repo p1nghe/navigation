@@ -21,6 +21,9 @@
 ### 身份伪造
 * [YOPmail](http://www.yopmail.com/zh/)
 
+### 工具
+* [jndi](https://github.com/wyzxxz/jndi_tool)
+
 ## Android
 * [android系列工具](https://haveibeenpwned.com/)
 * [GG-游戏安全-内存修改器](https://www.jianshu.com/p/85217c608523)
