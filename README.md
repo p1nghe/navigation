@@ -44,6 +44,7 @@
 * [JWT 靶场](https://digi.ninja/labs.php)
 * [Fofa Vulfous](https://vulfocus.cn/)
 * [vulhub](https://github.com/vulhub/vulhub)
+* [vulweb](http://testphp.vulnweb.com/)
 
 ## 乱七八糟
 * [have i been pwned](https://haveibeenpwned.com/)
