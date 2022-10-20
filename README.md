@@ -30,7 +30,7 @@
 * [AndroidTools](https://github.com/weskhen/AndroidTools)
 
 ## iOS
-*[IpaDownloadTool](https://gitcode.net/mirrors/SmileZXLee/IpaDownloadTool/-/tree/master/IpaDownloadTool)
+* [IpaDownloadTool](https://gitcode.net/mirrors/SmileZXLee/IpaDownloadTool/-/tree/master/IpaDownloadTool)
 
 ## 博客
 * [百度](https://www.baidu.com)
