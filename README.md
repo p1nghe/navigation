@@ -18,6 +18,10 @@
 ### 资产管理平台
  * [H](https://github.com/SiJiDo/H)
  
+### DNSLOG
+* [Dig.pm](https://log.xn--9tr.com/)
+* [dnslog.cn](http://dnslog.cn/)
+ 
 ### 身份伪造
 * [YOPmail](http://www.yopmail.com/zh/)
 
