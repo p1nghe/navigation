@@ -28,6 +28,7 @@
 ### 漏洞利用
 * [jndi](https://github.com/wyzxxz/jndi_tool)
 * [Fastjson](https://github.com/safe6Sec/Fastjson)
+* [Windows-exploits](https://github.com/lyshark/Windows-exploits)
 
 ## Android
 * [android系列工具](https://haveibeenpwned.com/)
