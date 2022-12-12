@@ -38,6 +38,7 @@
 * [GoAccess](https://github.com/allinurl/goaccess)
 * [Bypass007-应急响应](https://bypass007.github.io/Emergency-Response-Notes/Summary/)
 * [wpsec-应急响应](https://github.com/wpsec/Emergency-response-notes)
+* [LogParser解析Windows系统日志常用SQL合集](https://zgao.top/logparser%E8%A7%A3%E6%9E%90windows%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97%E5%B8%B8%E7%94%A8sql%E5%90%88%E9%9B%86/)
 
 ## Android
 * [android系列工具](https://haveibeenpwned.com/)
@@ -48,7 +49,7 @@
 * [IpaDownloadTool](https://gitcode.net/mirrors/SmileZXLee/IpaDownloadTool/-/tree/master/IpaDownloadTool)
 
 ## 博客
-* [百度](https://www.baidu.com)
+* [Zgao](https://zgao.top/)
 
 ## SRC
 * [BUGBANK](https://www.bugbank.cn)
