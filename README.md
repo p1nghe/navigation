@@ -70,3 +70,4 @@
 ## 乱七八糟
 * [have i been pwned](https://haveibeenpwned.com/)
 * [CVSS3.1](https://www.first.org/cvss/calculator/3.1)
+* [Safety-Project-Collection](https://github.com/Bypass007/Safety-Project-Collection)
