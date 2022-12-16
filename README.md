@@ -44,6 +44,7 @@
 * [android系列工具](https://haveibeenpwned.com/)
 * [GG-游戏安全-内存修改器](https://www.jianshu.com/p/85217c608523)
 * [AndroidTools](https://github.com/weskhen/AndroidTools)
+* [Drozer使用](https://chengy1ng.github.io/posts/2021/08/06/APP%E6%9C%AC%E8%BA%AB%E6%B5%8B%E8%AF%95%E4%B9%8BDrozer%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8.html)
 
 ## iOS
 * [IpaDownloadTool](https://gitcode.net/mirrors/SmileZXLee/IpaDownloadTool/-/tree/master/IpaDownloadTool)
