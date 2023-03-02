@@ -57,6 +57,9 @@
 * [补天](https://www.butian.net/)
 * [Hackerone](https://www.hackerone.com/)
 
+## 威胁情报
+* [奇安信威胁情报中心](https://ti.qianxin.com/)
+
 ## 靶场
 ### WEB
 * [JWT 靶场](https://digi.ninja/labs.php)
