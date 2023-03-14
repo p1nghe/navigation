@@ -75,6 +75,8 @@
 
 ### 代码
 *[GoogTech](https://github.com/GoogTech/blog)
+*[spring boot shiro简单实现](https://github.com/ZiCheng-Web/springboot-shiro)
+
 
 ## 乱七八糟
 * [have i been pwned](https://haveibeenpwned.com/)
